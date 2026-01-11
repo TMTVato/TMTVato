@@ -37,9 +37,9 @@
 
 ## 📊 Statistiques GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=D4v1sYu&show_icons=true&theme=radical" alt="Stats de John" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D4v1sYu&layout=compact&theme=radical" alt="Langages les plus utilisés" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TMTVato&radius=16&theme=react&area=true" width="100%" alt="stats" />
 </p>
+
 
 ---
 
