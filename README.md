@@ -4,11 +4,12 @@
 </p>
 
 ## 🚀 À propos de moi
-- 🌱 Actuellement en train d'apprendre en autodidacte sur le **Machine Learning** ! <img src="https://camo.githubusercontent.com/7b18bf660e1f1b7130fc8536b3e4d323b784148de2d37ab78430213fe8f08444/68747470733a2f2f6d65646961312e74656e6f722e636f6d2f6d2f5a36375f6a55797a76696341414141642f626f636368692d7468652d726f636b2d6675746172692d676f746f682e676966" width="150" align="right" />
-- ⚡ Fun fact : **J'apprécie les private jokes et les références bien placées lors de discussions.**
+- 🌱 Actuellement en train d'apprendre en autodidacte le **Machine Learning** ! <img src="https://camo.githubusercontent.com/7b18bf660e1f1b7130fc8536b3e4d323b784148de2d37ab78430213fe8f08444/68747470733a2f2f6d65646961312e74656e6f722e636f6d2f6d2f5a36375f6a55797a76696341414141642f626f636368692d7468652d726f636b2d6675746172692d676f746f682e676966" width="150" align="right" />
+- ⚡ Fun fact : **J'aime les émotes rigolotes**
+
 
 > [!WARNING]
-> **$\color{orange}{\textbf{En recherche d'alternance pour accélérer mon apprentissage en conditions}}$**
+> **$\color{orange}{\textbf{En recherche d'alternance pour accélérer mon apprentissage en conditions réelles}}$**
 
 ---
 
