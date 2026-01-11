@@ -4,7 +4,7 @@
 </p>
 
 ## 🚀 À propos de moi
-- 🌱 Actuellement en train d'apprendre en autodidacte sur le **Machine Learning** ! <img src="https://camo.githubusercontent.com/7b18bf660e1f1b7130fc8536b3e4d323b784148de2d37ab78430213fe8f08444/68747470733a2f2f6d65646961312e74656e6f722e636f6d2f6d2f5a36375f6a55797a76696341414141642f626f636368692d7468652d726f636b2d6675746172692d676f746f682e676966" width="100" align="right" />
+- 🌱 Actuellement en train d'apprendre en autodidacte sur le **Machine Learning** ! <img src="https://camo.githubusercontent.com/7b18bf660e1f1b7130fc8536b3e4d323b784148de2d37ab78430213fe8f08444/68747470733a2f2f6d65646961312e74656e6f722e636f6d2f6d2f5a36375f6a55797a76696341414141642f626f636368692d7468652d726f636b2d6675746172692d676f746f682e676966" width="150" align="right" />
 - ⚡ Fun fact : **J'apprécie les private jokes et les références bien placées lors de discussions.**
 
 > [!WARNING]
@@ -13,10 +13,18 @@
 ---
 
 ## 🏢 Mes Expériences :
-| **Renault** | Stagiaire | Analyse et automatisation d'outils (4 mois). |
-| **Paris** | Frontend & UI/UX | Création de site vitrine ReactJS (2 mois). |
 
-📄 **[Consulter mon CV ](https://drive.google.com/file/d/1NLCZqw7J4sfKPtW6n_TbEpQW_BTzpVTV/view?usp=sharing)**
+> ### **Renault (Technocentre)**
+> **Stagiaire en Automatisation d'outils** | *4 mois*
+> - Analyse et automatisation des outils internes pour optimiser les processus.
+> `PowerAPP` `Sharepoint` `Analyse Data`
+
+<br>
+
+> ### ** Site Vitrine**
+> **Stagiaire Développeur Front-End & UI/UX** | *2 mois*
+> - Conception d'interfaces sur Figma et intégration complète avec ReactJS.
+> `ReactJS` `Figma` `UI/UX Design`
 
 ---
 
