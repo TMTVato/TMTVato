@@ -22,7 +22,7 @@
 
 <br>
 
-> ### ** Site Vitrine**
+> ### **Site Vitrine**
 > **Stagiaire Développeur Front-End & UI/UX** | *2 mois*
 > - Conception d'interfaces sur Figma et intégration complète avec ReactJS.
 > `ReactJS` `Figma` `UI/UX Design`
